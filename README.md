@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AstridNielsen-lab
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... https://discord.gg/Q87eT73pPX
+- 📫 How to reach me ... AstridNielsen-lab@proton.me
