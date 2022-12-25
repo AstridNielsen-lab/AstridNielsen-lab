@@ -2,10 +2,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
  
- 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
-	
-
-- 🌱 I’m currently learning ... 
+ 	- 🌱 I’m currently learning ... 
 	
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />
 
