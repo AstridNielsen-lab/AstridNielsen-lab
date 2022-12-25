@@ -4,8 +4,6 @@ Here are some ideas to get you started:
  
  	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
 	
-	
-<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 - 🌱 I’m currently learning ... 
 	
