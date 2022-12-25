@@ -3,3 +3,5 @@
 
 
 ![Snake animation](https://github.com/seu-usuário-aqui/AstridNielsen-lab/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
