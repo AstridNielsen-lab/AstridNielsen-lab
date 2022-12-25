@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+
 
 - 🌱 I’m currently learning ... 
 	
