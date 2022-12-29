@@ -19,7 +19,7 @@ You can [read more about Dispərət Techno⚡Social Faculty](https://astridniels
 
 ## Become a Sponsor to Dispərət Techno⚡Social Faculty
 
-In 2022, a teacher started an open source community called Dispərət Techno⚡Social Faculty. This community has grown to include millions of developers from around the world. Together, we have built:
+In 2022, a teacher started an open source community called Dispərət Techno⚡Social Faculty. This community has grown to include developers from around the world. Together, we have built:
 
 💻  A free hour programming curriculum
 
