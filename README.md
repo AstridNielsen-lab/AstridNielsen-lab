@@ -4,3 +4,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+- 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
+- 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
