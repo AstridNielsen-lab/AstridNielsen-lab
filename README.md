@@ -12,10 +12,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstridNielsen-lab&show_icons=true&theme=radical)
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
-
-                    
                     
 
 
