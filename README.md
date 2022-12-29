@@ -9,7 +9,7 @@
 - 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
 
 # Dispərət Techno⚡Social Faculty
-[![freeCodeCamp Social Banner](https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)](https://astridnielsen-lab.github.io/ITSchool.github.io)
+[![freeCodeCamp Social Banner](https://www.cmuse.org/wp-content/uploads/2020/06/learn-coding-lessons-online.jpg)](https://astridnielsen-lab.github.io/ITSchool.github.io)
 
 [Dispərət Techno⚡Social Faculty](https://astridnielsen-lab.github.io/ITSchool.github.io) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://astridnielsen-lab.github.io/ITSchool.github.io) to help millions of busy adults transition into tech.
 
