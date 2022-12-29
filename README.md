@@ -7,3 +7,31 @@
 
 - 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
 - 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
+
+# Dispərət Techno⚡Social Faculty
+
+[![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
+
+[Dispərət Techno⚡Social Faculty](https://astridnielsen-lab.github.io/ITSchool.github.io) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://astridnielsen-lab.github.io/ITSchool.github.io) to help millions of busy adults transition into tech.
+
+Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+
+You can [read more about Dispərət Techno⚡Social Faculty](https://astridnielsen-lab.github.io/ITSchool.github.io).
+
+## Become a Sponsor to Dispərət Techno⚡Social Faculty
+
+In 2022, a teacher started an open source community called Dispərət Techno⚡Social Faculty. This community has grown to include millions of developers from around the world. Together, we have built:
+
+💻 A free hour programming curriculum
+
+🏛️ Forums and chat rooms where you can get coding help and feedback on your projects
+
+🧪 + coding tutorials
+
+🎒 + free YouTube courses on Computer Science, Data Science, and Machine Learning
+
+We are fully donor-supported. And we are extremely capital-efficient.
+
+Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 hours worth of learning for people around the world.
+
+[Sponsor us on GitHub](https://astridnielsen-lab.github.io/ITSchool.github.io) or [see other ways to donate](https://astridnielsen-lab.github.io/ITSchool.github.io).
