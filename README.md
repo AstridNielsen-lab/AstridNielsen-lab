@@ -8,6 +8,31 @@
 - 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
 - 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
 
+
+Hello World 🖖, I'm Astrid Nielsen❣️
+
+- 🔭 I’m currently working on Python projects with my students
+- 👀 I’m interested in Python | HTML | CSS | JS 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with my knoledges
+- 🎮 I love playing videogames, reading and watching TV series
+- 📫 How to reach me AstridNielsen-lab@proton.me
+- ⚡ Fun fact: Curious Student of Physics and Quantum Computing ⚡
+
+[![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocamposmachado/)](https://www.linkedin.com/in/juliocamposmachado)
+[![Discord Dadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Q87eT73pPX)](https://discord.gg/Q87eT73pPX)
+[![TwitterBadge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/julioscouter)](https://twitter.com/julioscouter)
+
+
+
+
+
+
+
+
+
+
+
 # Dispərət Techno⚡Social Faculty
 [![Social Banner](https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg)](https://astridnielsen-lab.github.io/ITSchool.github.io)
 
