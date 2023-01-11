@@ -121,7 +121,6 @@ Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 ho
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
