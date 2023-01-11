@@ -100,7 +100,7 @@ Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 ho
 
 
 <p align="center">
-  <img src="public/images/brand.png" height="128">
+  <img src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/public/images/brand.png" height="128">
   <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
