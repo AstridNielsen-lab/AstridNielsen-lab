@@ -22,8 +22,7 @@ Hello World 🖖, I'm Astrid Nielsen❣️
 - 📫 How to reach me AstridNielsen-lab@proton.me
 - ⚡ Fun fact: Curious Student of Physics and Quantum Computing ⚡
 
-
-	
+ <img src="https://raw.githubusercontent.com/AstridNielsen-lab/AstridNielsen-lab/main/like%20look%20solutions%20p%C3%B3.png" alt="BioSecurePay App">	
 
 [![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocamposmachado/)](https://www.linkedin.com/in/juliocamposmachado)
 [![Discord Dadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Q87eT73pPX)](https://discord.gg/Q87eT73pPX)
