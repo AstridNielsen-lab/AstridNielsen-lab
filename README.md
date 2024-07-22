@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/AstridNielsen-lab/AstridNielsen-lab/main/like%20look%20solutions%20p%C3%B3.png"  width="300" height="400" alt="BioSecurePay App">	
+ <img src="https://raw.githubusercontent.com/AstridNielsen-lab/AstridNielsen-lab/main/like%20look%20solutions%20p%C3%B3.png"  width="350" height="400" alt="BioSecurePay App">	
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AstridNielsen-lab;%F0%9F%91%80+I%E2%80%99m+interested+in+...+Python;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...+Python;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...+https%3A%2F%2Fdiscord.gg%2FQ87eT73pPX;%F0%9F%93%AB+How+to+reach+me+...+AstridNielsen-lab%40proton.me)](https://git.io/typing-svg)-  
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
