@@ -2,7 +2,7 @@
 
 [![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocamposmachado/)](https://www.linkedin.com/in/juliocamposmachado)
 [![Discord Dadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Q87eT73pPX)](https://discord.gg/Q87eT73pPX)
-[![TwitterBadge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/julioscouter)](https://twitter.com/julioscouter)
+[![TwitterBadge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/DevJulioMachado)](https://x.com/DevJulioMachado)
 
 # BioSecurePay
 
