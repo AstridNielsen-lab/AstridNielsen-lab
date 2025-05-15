@@ -1,29 +1,4 @@
- <img src="https://raw.githubusercontent.com/AstridNielsen-lab/AstridNielsen-lab/main/like%20look%20solutions%20p%C3%B3.png" width="80%" height="100%" alt="BioSecurePay App">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AstridNielsen-lab;%F0%9F%91%80+I%E2%80%99m+interested+in+...+Python;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...+Python;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...+https%3A%2F%2Fdiscord.gg%2FQ87eT73pPX;%F0%9F%93%AB+How+to+reach+me+...+AstridNielsen-lab%40proton.me)](https://git.io/typing-svg)
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 
-
-
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-- 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
-- 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
-
-Hello World 🖖, I'm Astrid Nielsen❣️
-
-- 🔭 I’m currently working on Python projects with my students
-- 👀 I’m interested in Python | HTML | CSS | JS 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with my knoledges
-- 🎮 I love playing videogames, reading and watching TV series
-- 📫 How to reach me AstridNielsen-lab@proton.me
-- ⚡ Fun fact: Curious Student of Physics and Quantum Computing ⚡
 
 [![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocamposmachado/)](https://www.linkedin.com/in/juliocamposmachado)
 [![Discord Dadge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Q87eT73pPX)](https://discord.gg/Q87eT73pPX)
@@ -98,3 +73,30 @@ Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 ho
 <p align="center">
   <img src="https://github.com/AstridNielsen-lab/genAI.github.io/raw/main/assets/images/Screen%20Shot%202020-05-24%20at%206.03.39%20AM.png" width="80%" height="80%" alt="BioSecurePay App">
 </p>
+
+ <img src="https://raw.githubusercontent.com/AstridNielsen-lab/AstridNielsen-lab/main/like%20look%20solutions%20p%C3%B3.png" width="80%" height="100%" alt="BioSecurePay App">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AstridNielsen-lab;%F0%9F%91%80+I%E2%80%99m+interested+in+...+Python;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...+Python;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...+https%3A%2F%2Fdiscord.gg%2FQ87eT73pPX;%F0%9F%93%AB+How+to+reach+me+...+AstridNielsen-lab%40proton.me)](https://git.io/typing-svg)
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
+
+
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+- 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
+- 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
+
+Hello World 🖖, I'm Astrid Nielsen❣️
+
+- 🔭 I’m currently working on Python projects with my students
+- 👀 I’m interested in Python | HTML | CSS | JS 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with my knoledges
+- 🎮 I love playing videogames, reading and watching TV series
+- 📫 How to reach me AstridNielsen-lab@proton.me
+- ⚡ Fun fact: Curious Student of Physics and Quantum Computing ⚡
