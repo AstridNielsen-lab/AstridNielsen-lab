@@ -68,7 +68,7 @@ We are fully donor-supported. And we are extremely capital-efficient.
 
 Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 hours worth of learning for people around the world.
 
-[Sponsor us on GitHub](https://astridnielsen-lab.github.io/ITSchool.github.io) or [see other ways to donate](https://astridnielsen-lab.github.io/ITSchool.github.io).
+[Sponsor us on GitHub](https://radiotatuapefm.wixsite.com/disparattechno) or [see other ways to donate](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=2c9380848cee0ec1018cf08226b402a6).
 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AstridNielsen-lab;%F0%9F%91%80+I%E2%80%99m+interested+in+...+Python;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...+Python;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...+https%3A%2F%2Fdiscord.gg%2FQ87eT73pPX;%F0%9F%93%AB+How+to+reach+me+...+AstridNielsen-lab%40proton.me)](https://git.io/typing-svg)
