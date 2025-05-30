@@ -57,11 +57,9 @@ Qualquer valor doado ajuda a educar novos desenvolvedores em tecnologia!
 
 [![Social Banner](https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg)](https://astridnielsen-lab.github.io/ITSchool.github.io)
 
-[Dispərət Techno⚡Social Faculty](https://astridnielsen-lab.github.io/ITSchool.github.io) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://astridnielsen-lab.github.io/ITSchool.github.io) to help millions of busy adults transition into tech.
-
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
-You can [read more about Dispərət Techno⚡Social Faculty](https://astridnielsen-lab.github.io/ITSchool.github.io).
+You can [read more about Dispərət Techno⚡Social Faculty](https://radiotatuapefm.wixsite.com/disparattechno).
 
 ## Become a Sponsor to Dispərət Techno⚡Social Faculty
 
