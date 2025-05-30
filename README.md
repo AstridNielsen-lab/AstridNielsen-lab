@@ -1,3 +1,14 @@
+---
+
+## 💰 **Como Contribuir**
+Qualquer valor doado ajuda a educar novos desenvolvedores em tecnologia!
+
+- **PIX/PayPal:** radiotatuapefm@gmail.com
+- **Bitcoin:** `bc1qmjf00jqttk2kgemxtxh0hv4xp8fqztnn23cuc2`
+- **Ethereum:** `0x7481B4591e7f0DFAD23b884E78C46F0c207a3E35`
+- **Litecoin:** `ltc1qxytts52mykr2u83x6ghwllmu7d524ltt702mcc`
+
+---
 
 
 [![LinkedIn Badget](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocamposmachado/)](https://www.linkedin.com/in/juliocamposmachado)
@@ -70,6 +81,7 @@ Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 ho
 
 [Sponsor us on GitHub](https://radiotatuapefm.wixsite.com/disparattechno) or [see other ways to donate](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=2c9380848cee0ec1018cf08226b402a6).
 
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AstridNielsen-lab;%F0%9F%91%80+I%E2%80%99m+interested+in+...+Python;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...+Python;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...+https%3A%2F%2Fdiscord.gg%2FQ87eT73pPX;%F0%9F%93%AB+How+to+reach+me+...+AstridNielsen-lab%40proton.me)](https://git.io/typing-svg)
       <br>
@@ -86,12 +98,10 @@ Each dollar you give to Dispərət Techno⚡Social Faculty translates into 50 ho
 - 💀 [**Discord**](https://discord.gg/Q87eT73pPX)
 - 🏆 [**Radio**](https://www.radiotatuapefm.com.br)
 
-Hello World 🖖, I'm Astrid Nielsen❣️
-
 - 🔭 I’m currently working on Python projects with my students
 - 👀 I’m interested in Python | HTML | CSS | JS 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with my knoledges
 - 🎮 I love playing videogames, reading and watching TV series
-- 📫 How to reach me AstridNielsen-lab@proton.me
+- 📫 How to reach me juliocamposmachado@gmail.com
 - ⚡ Fun fact: Curious Student of Physics and Quantum Computing ⚡
